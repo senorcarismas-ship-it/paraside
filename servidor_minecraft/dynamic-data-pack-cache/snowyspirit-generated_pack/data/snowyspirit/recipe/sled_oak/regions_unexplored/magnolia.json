@@ -1,0 +1,32 @@
+{
+  "key": {
+    "A": {
+      "ingredient": {
+        "item": "minecraft:oak_planks"
+      },
+      "block_type": "minecraft:wood_type",
+      "from": "minecraft:oak",
+      "to": "regions_unexplored:magnolia",
+      "fabric:type": "moonlight:block_type_swap"
+    },
+    "B": {
+      "ingredient": {
+        "item": "minecraft:stick"
+      },
+      "block_type": "minecraft:wood_type",
+      "from": "minecraft:oak",
+      "to": "regions_unexplored:magnolia",
+      "fabric:type": "moonlight:block_type_swap"
+    }
+  },
+  "pattern": [
+    "AAB",
+    "BBB"
+  ],
+  "result": {
+    "id": "snowyspirit:regions_unexplored/sled_magnolia",
+    "count": 1
+  },
+  "category": "misc",
+  "type": "minecraft:crafting_shaped"
+}
