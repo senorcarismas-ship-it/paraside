@@ -1,0 +1,7 @@
+{
+	"beaconProtectionRadius": 128,
+	"subchunksRenderMargin": 2,
+	"subchunksCacheMargin": 3,
+	"ticksPerOverlayCacheUpdate": 20,
+	"ticksPerBeaconPositionsUpdate": 40
+}
